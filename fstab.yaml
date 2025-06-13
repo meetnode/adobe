@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/1PYk0UgV5K1uC6fROEyDQ1VLAa2JUf1wj
+  /:
+    url: https://content.da.live/meetnode/adobe/
+    type: markup
